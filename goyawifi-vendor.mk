@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/samsung/goyawifi/goyawifi-vendor-blobs.mk)
